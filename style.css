@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #ffffff;
+}
+
+#canvas {
+  background: #cbc0c0;
+}
+
+.controls {
+  padding: 10px 20px;
+}
+
+.group {
+  margin-bottom: 10px;
+}
+
+input {
+  font-size: 16px;
+  background: #ffffff;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5px;
+}
